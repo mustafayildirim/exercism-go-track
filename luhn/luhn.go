@@ -34,7 +34,6 @@ func Valid(id string) bool {
 				number -= 9
 			}
 		}
-
 		total += number
 	}
 
